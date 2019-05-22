@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Criteria Visualization",
+      "tensorShape": [
+        174214,
+        3
+      ],
+      "tensorPath": "https://github.com/yuju30/Embedding_Visualization/Embedding.tsv",
+      "metadataPath": "https://github.com/yuju30/Embedding_Visualization/lab_out.tsv"
+    }
+  ]
+}
