@@ -6,8 +6,8 @@
         174214,
         3
       ],
-      "tensorPath": "https://raw.githubusercontent.com/yuju30/Embedding_Visualization/Embedding.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/yuju30/Embedding_Visualization/lab_out.tsv"
+      "tensorPath": "Embedding.tsv",
+      "metadataPath": "lab_out.tsv"
     }
   ]
 }
